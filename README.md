@@ -1,2 +1,2 @@
-# Pwa
+# Progressive Web App (PWA)
 pwa
